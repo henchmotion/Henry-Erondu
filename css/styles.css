@@ -21,18 +21,19 @@ a {
 
 #front-page {
     padding: 0;
-    position: relative
+    position: relative;
+}
+
+#hero-section {
+    /* justify-content: space-between; */
+    margin: auto;
+    display: inline;
 }
 
 
 #p1 {
-color: black;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-font-weight: 800;
-line-height: 53px;
-text-transform: uppercase;
+    margin-top: 50px;
+    height: 105px;
 }
 
 #profile-img {
